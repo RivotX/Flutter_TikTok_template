@@ -24,7 +24,7 @@ List<Map<String, dynamic>> videoPosts = [
     'views': 2300,
   },
   {
-    'name': 'El COVID no me afecta',
+    'name': 'Siempre protegido ante cualquier enfermedad',
     'videoUrl': 'assets/videos/5.mp4',
     'likes': 3230,
     'views': 31030,
